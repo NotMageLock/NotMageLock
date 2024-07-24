@@ -3,7 +3,7 @@
 
 - I’m currently learning **C#, HTML, and Java**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/magelock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="magelock" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/SzK7s4dzWB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/SzK7s4dzWB" height="30" width="40" /></a>
