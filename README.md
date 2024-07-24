@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Lock!</h1>
-<h3 align="center">An intermediate C# hobbyist with an interest in VR, BepInEx modsing, and more!</h3>
+<h3 align="center">An intermediate C# hobbyist with an interest in VR, BepInEx modding, and more!</h3>
 
 - I’m currently learning **C#, HTML, and Java**
 
