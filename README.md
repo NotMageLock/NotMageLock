@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Lock!</h1>
-<h3 align="center">An intermediate C# hobbyist with an interest in VR, BepInEx modding, and more!</h3>
+<h3 align="center">An intermediate C#/GDScript hobbyist with an interest in VR, modding, and more!</h3>
 
-- I’m currently learning **C#, HTML, and Java**
+- I’m currently learning **C#, and GDScript**
 
 <h3 align="left">Links:</h3>
 <p align="left">
